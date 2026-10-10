@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/rouka.jpg"  ]
+[preload  storage="./data/bgimage/26703729_m.jpg"  ]
+[preload  storage="./data/bgimage/title.jpg"  ]
+[preload  storage="./data/bgimage/29996212_m.jpg"  ]
+[preload  storage="./data/bgimage/dark.png"  ]
+[preload  storage="./data/bgimage/05315E53-419D-4F17-8CD9-BD3919F3E3B4.jpg"  ]
+[preload  storage="./data/bgimage/ushim.png"  ]
+[return]
